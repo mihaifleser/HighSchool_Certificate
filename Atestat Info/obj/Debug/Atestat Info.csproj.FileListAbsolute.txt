@@ -1,0 +1,34 @@
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe.config
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.pdb
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.csprojAssemblyReference.cache
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormStart.resources
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.Properties.Resources.resources
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.csproj.GenerateResource.cache
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.csproj.CoreCompileInputs.cache
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.exe
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.pdb
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormHelp.resources
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe.config
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.exe
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.pdb
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.pdb
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.csprojResolveAssemblyReference.cache
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormStart.resources
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormHelp.resources
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.Properties.Resources.resources
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.csproj.GenerateResource.Cache
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormIntrebare.resources
+D:\12i\Fleser_Mihai\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormNume.resources
+G:\Exercitii programare\C#\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe.config
+G:\Exercitii programare\C#\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.exe
+G:\Exercitii programare\C#\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.pdb
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormIntrebare.resources
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat_Info.FormNume.resources
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Questions.mdf
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Questions_log.ldf
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.exe.manifest
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\bin\Debug\Atestat Info.application
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.exe.manifest
+D:\Proiecte de programare pt bossi\Atestat\Atestat Info\Atestat Info\obj\Debug\Atestat Info.application
